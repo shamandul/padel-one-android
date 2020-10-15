@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blanco">#FFFFFF</color>
+    <color name="negro">#FF000000</color>
+    <color name="verde_boton">#809a2f</color>
+    <color name="verdeSeparador">#C9E2C9</color>
+    <color name="verde_tarjeta">#314810</color>
+    <color name="colorlistado">#00FFFF</color>
+    <color name="negro_trans">#AFFFFFFF</color>
+    
+</resources>

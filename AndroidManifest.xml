@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="es.jesusdeserdio.padelone"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" android:maxSdkVersion="18"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/android"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="es.jesusdeserdio.padelone.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AcercaDe" 
+            android:label="Acerca de ..." 
+            android:theme="@android:style/Theme.Dialog"></activity>
+        <activity android:label="Login" android:name="LoginActivity"></activity>
+        <activity android:name="RankingActivity" android:label="Ranking"></activity>
+        <activity android:name="OpcionesTorneoActivity" android:label="Opciones Torneo"></activity>
+        <activity android:name="CrearTorneoActivity" android:label="Crear torneo"></activity>
+        <activity android:name="VerTorneoActivity" android:label="Ver torneos"></activity>
+        <activity android:label="Noticias" android:name="NoticiasActivity"></activity>
+    </application>
+
+</manifest>

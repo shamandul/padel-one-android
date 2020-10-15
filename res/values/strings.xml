@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PadelOne</string>
+    <string name="action_settings">configuración</string>
+    <string name="titulo">Padel One</string>
+    <string name="login">Login</string>
+    <string name="des_login">Login</string>
+    <string name="noticias">Noticias</string>
+    <string name="ranking">Ranking</string>
+    <string name="acerca_de">Acerca de &#8230;</string>
+    <string name="texto_acerca_de">Este programa ha sido desarrollado como proyecto integral de Desarollo de Aplicaciones Informáticas
+        está desarrollado por Jesús de Serdio Perea.</string>
+    <string name="Desc_logo">Logo de PadelOne</string>
+    <string name="registro">CC 2014 Jesús de Serdio </string>
+    <string name="usuario">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="conectar">Conectar</string>
+    <string name="paridos_ganados">Partidos ganados : </string>
+    <string name="partidos_perdidos">Patidos perdidos:</string>
+    <string name="puntos">Puntos:</string>
+    <string name="partidos_jugados">Partidos jugados:</string>
+    <string name="error_server">Error en la conexión con el Servidos</string>
+    <string name="ratio">Ratio: </string>
+    <string name="C_torneo">Crear torneo</string>
+    <string name="v_torneos">Ver torneos</string>
+    <string name="desc_img_torneo">Imagen de trofeo</string>
+    <string name="lim_partida">Por motivos de tiempo solo es posible crear partidos entre cuatro jugadores.</string>
+    <string name="jugador1">Jugador 1:</string>
+    <string name="jugador2">Jugador 2:</string>
+    <string name="jugador3">Jugador 3:</string>
+    <string name="jugador4">Jugador 4:</string>
+    <string name="txt_crear">Crear</string>
+    <string name="torneos_creados">Torneos creados</string>
+    <string name="cod_torneo">Cod Torneo</string>
+
+</resources>
